@@ -11,9 +11,15 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_launch_life_counter"/>
+        android:text="@string/button_launch_life_counter"
+        android:id="@+id/launch_life_counter"/>
 
-    
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_launch_storm_counter"
+        android:id="@+id/launch_storm_counter"/>
+
 
 
 </LinearLayout>
