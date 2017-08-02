@@ -6,7 +6,7 @@
     <TextView
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
-        android:text="@string/title"/>
+        android:text="@string/landing_screen_title"/>
 
     <Button
         android:layout_width="wrap_content"

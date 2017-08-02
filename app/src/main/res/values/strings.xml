@@ -2,6 +2,7 @@
 
     <string name="app_name">Storm Counter</string>
 
+    <string name="button_reset">Reset</string>
 
     <!-- Storm Counter -->
     <string name="blue_mana_text">Blue Mana: </string>
@@ -15,8 +16,16 @@
     <string name="init_zero">0</string>
 
     <!-- Landing Screen -->
-    <string name="title">Life Counter</string>
+    <string name="landing_screen_title">Life Counter</string>
     <string name="button_launch_life_counter">Life Counter</string>
     <string name="button_launch_storm_counter">Storm Counter</string>
+
+
+    <!-- Life Counter -->
+    <string name="life_counter_title">Life Counter</string>
+    <string name="life_counter_text">Life Total: </string>
+    <string name="life_counter_opponent_text">Opponent Life Total: </string>
+    <string name="button_increment_life_total">+1 Life</string>
+    <string name="button_decrement_life_total">-1 Life</string>
 
 </resources>
