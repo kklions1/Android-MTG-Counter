@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Storm Counter</string>
+
+
+    <!-- Storm Counter -->
+    <string name="blue_mana_text">Blue Mana: </string>
+    <string name="red_mana_text">Red Mana: </string>
+    <string name="storm_count_text">Storm Count: </string>
+    <string name="button_increment_red">+1 Red</string>
+    <string name="button_increment_blue">+1 Blue</string>
+    <string name="button_decrement_red">-1 Red</string>
+    <string name="button_decrement_blue">-1 Blue</string>
+    <string name="button_increment_storm">+1 Storm</string>
+    <string name="init_zero">0</string>
+
+    <!-- Landing Screen -->
+    <string name="title">Life Counter</string>
+    <string name="button_launch_life_counter">Life Counter</string>
+    <string name="button_launch_storm_counter">Storm Counter</string>
+
+</resources>
