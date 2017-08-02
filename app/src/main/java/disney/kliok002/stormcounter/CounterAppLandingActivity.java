@@ -32,10 +32,10 @@ public class CounterAppLandingActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(CounterAppLandingActivity.this, StormCounterActivity.class);
                 startActivity(intent);
-
             }
         });
     }
+
 
 
 }

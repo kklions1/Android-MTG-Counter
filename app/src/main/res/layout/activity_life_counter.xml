@@ -22,7 +22,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/player_life_total"/>
+            android:id="@+id/player_life_total"
+            android:text="@string/init_zero"/>
 
         <Button
             android:layout_height="wrap_content"
@@ -52,7 +53,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/opponent_life_total"/>
+            android:id="@+id/opponent_life_total"
+            android:text="@string/init_zero"/>
 
         <Button
             android:layout_height="wrap_content"
