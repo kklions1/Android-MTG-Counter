@@ -1,13 +1,15 @@
 package disney.kliok002.stormcounter;
 
+import android.app.Activity;
 import android.support.annotation.IdRes;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.view.Window;
 import android.widget.Button;
 import android.widget.TextView;
 
-public class StormCounterActivity extends AppCompatActivity {
+public class StormCounterActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
