@@ -27,5 +27,6 @@
     <string name="life_counter_opponent_text">Opponent Life Total: </string>
     <string name="button_increment_life_total">+1 Life</string>
     <string name="button_decrement_life_total">-1 Life</string>
+    <string name="title_activity_counter">Counter</string>
 
 </resources>
